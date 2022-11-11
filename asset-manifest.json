@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LanceMeUp/static/css/main.e6c13ad2.css",
+    "main.js": "/LanceMeUp/static/js/main.35c0f5fe.js",
+    "static/js/787.bd02f72e.chunk.js": "/LanceMeUp/static/js/787.bd02f72e.chunk.js",
+    "index.html": "/LanceMeUp/index.html",
+    "main.e6c13ad2.css.map": "/LanceMeUp/static/css/main.e6c13ad2.css.map",
+    "main.35c0f5fe.js.map": "/LanceMeUp/static/js/main.35c0f5fe.js.map",
+    "787.bd02f72e.chunk.js.map": "/LanceMeUp/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.35c0f5fe.js"
+  ]
+}
