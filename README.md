@@ -4,6 +4,6 @@ App is deployed on gh-pages but wont render because of 'react-router-dom
 1. npm start
 2. npx json-server --watch db.json --port 4000
 
-#Admin Login
+# Admin Login
 Email: admin@gmail.com \
 Password: admin
