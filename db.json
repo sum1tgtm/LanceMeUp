@@ -1,0 +1,12 @@
+{
+    "products":[
+        {"id":"318-082","title":"Viva","price":59.95,"category":"Apple","image":"http://dummyimage.com/100x100.png/ff4444/ffffff"},
+        {"id":"051-585","title":"Keylex","price":90.00,"category":"Linux","image":"http://dummyimage.com/100x100.png/ff4444/ffffff"},
+        {"id":"051-636","title":"Zoolab","price":14.77,"category":"Windows","image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff"},
+        {"id":"930-567","title":"Tin","price":38.25,"category":"Android","image":"http://dummyimage.com/100x100.png/cc0000/ffffff"},
+        {"id":"274-550","title":"Ronstring","price":83.74,"category":"Linux","image":"http://dummyimage.com/100x100.png/cc0000/ffffff"},
+        {"id":"126-865","title":"Mat Lam Tam","price":39.00,"category":"Windows","image":"http://dummyimage.com/100x100.png/cc0000/ffffff"},
+        {"id":"393-849","title":"Zoolab Plus","price":74.77,"category":"Android","image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff"},
+        {"id":"729-964","title":"Zaam-Dox","price":94.48,"category":"Linux","image":"http://dummyimage.com/100x100.png/dddddd/000000"}
+    ]
+}
